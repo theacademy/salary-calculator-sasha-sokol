@@ -43,7 +43,7 @@ public class EmployeeSalaryCalculator
 		hourlyRate = HR;
 		hoursWorked = HW;
 		
-		/*
+		/* FINAL
 		All new code must be added between the commented lines below.
 			YOUR CODE STARTS HERE
 			YOUR CODE ENDS HERE
